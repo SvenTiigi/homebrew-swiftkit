@@ -1,8 +1,8 @@
 class Swiftkit < Formula
     desc "Start your next Open-Source Swift Framework 📦"
     homepage "https://github.com/SvenTiigi/SwiftKit"
-    url "https://github.com/SvenTiigi/SwiftKit/archive/1.3.3.tar.gz"
-    sha256 "c2916b222941e63f4b18710e73e83b8cdf3cddb9cedda0e42ab158696d03c038"
+    url "https://github.com/SvenTiigi/SwiftKit/archive/1.3.4.tar.gz"
+    sha256 "aac60d276e74811dc687d9ae69f833bdcdda905505ee45d38a27ff43b8736531"
     head "https://github.com/SvenTiigi/SwiftKit.git"
 
     depends_on :xcode => ["8.0", :build]
